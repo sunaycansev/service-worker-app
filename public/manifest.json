@@ -1,0 +1,9 @@
+{
+  "name": "Todo PWA App",
+  "short_name": "Todo PWA",
+  "description": "A Progressive Web App demonstrating Service Workers with Todo functionality",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
